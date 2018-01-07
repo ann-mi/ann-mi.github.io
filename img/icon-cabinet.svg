@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Technostor-Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1035.000000, -117.000000)">
+        <g id="Menu" transform="translate(-4.000000, 99.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="Cabinet" transform="translate(1035.000000, 14.000000)">
+                <g id="ic_person">
+                    <path d="M12,11 C13.6577153,11 15,9.65771525 15,8 C15,6.34228475 13.6577153,5 12,5 C10.3422847,5 9,6.34228475 9,8 C9,9.65771525 10.3422847,11 12,11 Z M5,19 L19,19 L19,18 C19,16.5399072 15.1559994,15 12,15 C8.8440006,15 5,16.5399072 5,18 L5,19 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

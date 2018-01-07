@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ico13</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Technostor-Mobile-Menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-13.000000, -827.000000)">
+        <g id="Catalog" transform="translate(0.000000, 60.000000)">
+            <g id="Drop-Menu-Copy-14" transform="translate(0.000000, 750.000000)">
+                <g id="ico13" transform="translate(10.000000, 11.000000)">
+                    <rect id="Rectangle-4" fill-opacity="0" fill="#FF0000" x="0" y="0" width="30" height="30"></rect>
+                    <g id="Group" transform="translate(3.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
+                        <path d="M24,14.7949126 L24,1.43084261 L8.78873239,1.43084261 L8.78873239,0 L0,0 L0,18 L8.78873239,18 L8.78873239,14.7949126 L13.2394366,14.7949126 L13.2394366,16.8553259 L11.6056338,16.8553259 L11.6056338,18 L18.9859155,18 L18.9859155,16.8553259 L17.3521127,16.8553259 L17.3521127,14.7949126 L24,14.7949126 Z M22.8732394,2.57551669 L22.8732394,10.5882353 L8.78873239,10.5882353 L8.78873239,2.57551669 L22.8732394,2.57551669 Z M7.66197183,16.8553259 L1.12676056,16.8553259 L1.12676056,1.17329094 L7.66197183,1.17329094 L7.66197183,16.8553259 Z M8.78873239,11.7329094 L22.8732394,11.7329094 L22.8732394,13.6502385 L8.78873239,13.6502385 L8.78873239,11.7329094 Z M16.2253521,16.8553259 L14.3661972,16.8553259 L14.3661972,14.7949126 L16.2253521,14.7949126 L16.2253521,16.8553259 Z" id="Shape"></path>
+                        <rect id="Rectangle-path" x="3" y="6" width="3" height="1"></rect>
+                        <polygon id="Rectangle-path" points="4 12 6 12 6 13 4 13"></polygon>
+                        <rect id="Rectangle-path" x="3" y="4" width="3" height="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

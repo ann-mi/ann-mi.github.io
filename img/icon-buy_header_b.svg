@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Technostor-Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1186.000000, -115.000000)">
+        <g id="Menu" transform="translate(-4.000000, 99.000000)" stroke="#333333" stroke-width="2">
+            <g id="Cart-open" transform="translate(930.000000, 0.000000)">
+                <g id="cart" transform="translate(259.000000, 6.000000)">
+                    <g id="ic_shopping_cart" transform="translate(0.000000, 8.000000)">
+                        <path d="M7,19 C6.4557364,19 6.01,19.4488318 6.01,20 C6.01,20.5511682 6.4557364,21 7,21 C7.54771525,21 8,20.5477153 8,20 C8,19.4522847 7.54771525,19 7,19 Z M3.31623729,3 L3.63247459,3 L3.91672858,3.59930216 L3.63505656,3 L3.31623729,3 Z M4.58109119,5 L7.72296454,11.6241163 L7.51584496,12 L15.55,12 C15.9202343,12 16.2516464,11.8019778 16.424383,11.486994 L20.0117569,4.98386106 C20.0004776,5.00359968 20,5.00554013 20,5 C20,5.00228475 19.9977153,5 20,5 L4.58109119,5 Z M17,19 C16.4557364,19 16.01,19.4488318 16.01,20 C16.01,20.5511682 16.4557364,21 17,21 C17.5477153,21 18,20.5477153 18,20 C18,19.4522847 17.5477153,19 17,19 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

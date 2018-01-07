@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="15px" viewBox="0 0 24 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ico10</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Technostor-Mobile-Menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-13.000000, -578.000000)">
+        <g id="Catalog" transform="translate(0.000000, 60.000000)">
+            <g id="Drop-Menu-Copy-10" transform="translate(0.000000, 500.000000)">
+                <g id="ico10" transform="translate(10.000000, 10.000000)">
+                    <rect id="Rectangle-4" fill-opacity="0" fill="#FF0000" x="0" y="0" width="30" height="30"></rect>
+                    <path d="M6.275,8 L6.275,12.225 L3,12.225 L3,20.875 L4.875,20.875 L4.875,23 L6.375,23 L6.375,20.875 L23.425,20.875 L23.425,23 L24.925,23 L24.925,20.875 L26.825,20.875 L26.825,12.225 L23.525,12.225 L23.525,8 L6.275,8 Z M22.025,9.5 L22.025,16.05 L15.625,16.05 L15.625,9.5 L22.025,9.5 Z M7.775,9.5 L14.125,9.5 L14.125,16.05 L7.775,16.05 L7.775,9.5 Z M25.3,13.725 L25.3,19.375 L4.5,19.375 L4.5,13.725 L6.275,13.725 L6.275,17.55 L23.525,17.55 L23.525,13.725 L25.3,13.725 Z" id="Shape" fill="#333333" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

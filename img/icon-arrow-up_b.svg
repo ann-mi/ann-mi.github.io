@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="285px" height="167px" viewBox="0 0 285 167" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-arrow-up_w</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-arrow-up_w" fill-rule="nonzero" fill="#333333">
+            <path d="M282.082,136.285 L149.028,3.24 C147.127,1.337 144.94,0.384 142.466,0.384 C139.992,0.384 137.801,1.337 135.899,3.24 L2.856,136.285 C0.95,138.191 0,140.378 0,142.853 C0,145.327 0.953,147.517 2.856,149.419 L17.128,163.69 C19.031,165.593 21.221,166.544 23.695,166.544 C26.169,166.544 28.359,165.593 30.262,163.69 L142.466,51.488 L254.674,163.697 C256.576,165.6 258.767,166.545 261.237,166.545 C263.715,166.545 265.905,165.594 267.807,163.697 L282.081,149.42 C283.983,147.518 284.928,145.327 284.928,142.854 C284.929,140.378 283.984,138.188 282.082,136.285 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
