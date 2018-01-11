@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>clear</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Technostor-Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1324.000000, -186.000000)" fill-opacity="0.247027853">
+        <g id="Cart-open" transform="translate(926.000000, 99.000000)" fill="#000000">
+            <g id="item1" transform="translate(20.000000, 71.000000)">
+                <g id="clear" transform="translate(378.000000, 16.000000)">
+                    <polygon id="Shape" points="10 1 9 0 5 4 1 0 0 1 4 5 0 9 1 10 5 6 9 10 10 9 6 5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
