@@ -9,6 +9,7 @@
   <link rel="stylesheet" type="text/css" href="libs/form/jquery.formstyler.css"/>
   <link rel="stylesheet" type="text/css" href="libs/form/jquery.formstyler.theme.css"/>
   <link rel="stylesheet" type="text/css" href="libs/date/libs.min.css"/>
+  <link href="https://cdn.jsdelivr.net/npm/suggestions-jquery@17.10.1/dist/css/suggestions.min.css" type="text/css" rel="stylesheet"/>
   <link rel="stylesheet" href="style.css"/>
 </head>
 <header>
@@ -545,114 +546,150 @@
       </div>
     </div>
   </section>
-  <section class="product-info">
-    <div class="product-info-tabs">
-      <div class="product-info-tab product-info-tab-active">Технические характеристики</div>
-      <div class="product-info-tab">Описание</div>
-      <div class="product-info-tab">Отзывы<span class="product-info-tab-review">23</span></div>
-      <div class="product-info-tab">Аксессуары</div>
-      <div class="product-info-tab">Гарантия и установка</div>
-      <div class="product-info-tab">Товары с уценкой</div>
+  <div class="product_desc_box">
+    <div class="about_product_tabs">
+      <div class="about_product_title about_product_title-desktop tablinks active">Технические характеристики</div>
+      <div class="about_product_title about_product_title-desktop tablinks">Описание</div>
+      <div class="about_product_title about_product_title-desktop tablinks">Отзывы<span>23</span></div>
+      <div class="about_product_title about_product_title-desktop tablinks">Аксессуары</div>
+      <div class="about_product_title about_product_title-desktop tablinks">Гарантия и установка</div>
+      <div class="about_product_title about_product_title-desktop tablinks">Товары с уценкой</div>
     </div>
-    <div class="product-info-content-box">
-      <div class="product-info-content">
-        <div class="product-info-tab-cont product-info-content-active">
-          <table class="product-info-content-table">
-            <tr>
-              <td> Бренд:</td>
-              <td>Samsung</td>
-            </tr>
-            <tr>
-              <td>Цвет:</td>
-              <td> серебристый</td>
-            </tr>
-            <tr>
-              <td>Поддержка 3D:</td>
-              <td> Нет</td>
-            </tr>
-            <tr>
-              <td>Диагональ:</td>
-              <td> 50'' и более</td>
-            </tr>
-            <tr>
-              <td>Диагональ экрана:</td>
-              <td> 65"</td>
-            </tr>
-            <tr>
-              <td>Максимальное разрешение экрана:</td>
-              <td> 3840x2160</td>
-            </tr>
-            <tr>
-              <td>Особенности:</td>
-              <td> Smart TV</td>
-            </tr>
-            <tr>
-              <td>Поддержка Cl</td>
-              <td> +</td>
-            </tr>
-            <tr>
-              <td>Изогнутый дисплей</td>
-              <td> +</td>
-            </tr>
-            <tr>
-              <td>Поддержка DLNA</td>
-              <td> -</td>
-            </tr>
-            <tr>
-              <td>Wi-Fi</td>
-              <td> -</td>
-            </tr>
-            <tr>
-              <td> Бренд:</td>
-              <td>Samsung</td>
-            </tr>
-            <tr>
-              <td>Цвет:</td>
-              <td> серебристый</td>
-            </tr>
-            <tr>
-              <td>Поддержка 3D:</td>
-              <td> Нет</td>
-            </tr>
-            <tr>
-              <td>Диагональ:</td>
-              <td>50'' и более</td>
-            </tr>
-            <tr>
-              <td>Диагональ экрана:</td>
-              <td>65"</td>
-            </tr>
-            <tr>
-              <td>Максимальное разрешение экрана:</td>
-              <td> 3840x2160</td>
-            </tr>
-            <tr>
-              <td>Особенности:</td>
-              <td> Smart TV</td>
-            </tr>
-            <tr>
-              <td>Поддержка Cl</td>
-              <td> +</td>
-            </tr>
-            <tr>
-              <td>Изогнутый дисплей</td>
-              <td> +</td>
-            </tr>
-            <tr>
-              <td>Поддержка DLNA</td>
-              <td> -</td>
-            </tr>
-            <tr>
-              <td>Wi-Fi</td>
-              <td> -</td>
-            </tr>
-          </table><a class="product-info-content-table-all" href="#">Посмотреть все характеристики</a>
+    <div class="product_desc_container">
+      <div class="about_product">
+        <div class="about_product_item open">
+          <div class="about_product_title about_product_title-mob">Технические характеристики</div>
+          <div class="about_product_plate">
+            <div class="about_product_content">
+              <table class="product-info-content-table">
+                <tr>
+                  <td> Бренд:</td>
+                  <td>Samsung</td>
+                </tr>
+                <tr>
+                  <td>Цвет:</td>
+                  <td> серебристый</td>
+                </tr>
+                <tr>
+                  <td>Поддержка 3D:</td>
+                  <td> Нет</td>
+                </tr>
+                <tr>
+                  <td>Диагональ:</td>
+                  <td> 50'' и более</td>
+                </tr>
+                <tr>
+                  <td>Диагональ экрана:</td>
+                  <td> 65"</td>
+                </tr>
+                <tr>
+                  <td>Максимальное разрешение экрана:</td>
+                  <td> 3840x2160</td>
+                </tr>
+                <tr>
+                  <td>Особенности:</td>
+                  <td> Smart TV</td>
+                </tr>
+                <tr>
+                  <td>Поддержка Cl</td>
+                  <td> +</td>
+                </tr>
+                <tr>
+                  <td>Изогнутый дисплей</td>
+                  <td> +</td>
+                </tr>
+                <tr>
+                  <td>Поддержка DLNA</td>
+                  <td> -</td>
+                </tr>
+                <tr>
+                  <td>Wi-Fi</td>
+                  <td> -</td>
+                </tr>
+                <tr>
+                  <td> Бренд:</td>
+                  <td>Samsung</td>
+                </tr>
+                <tr>
+                  <td>Цвет:</td>
+                  <td> серебристый</td>
+                </tr>
+                <tr>
+                  <td>Поддержка 3D:</td>
+                  <td> Нет</td>
+                </tr>
+                <tr>
+                  <td>Диагональ:</td>
+                  <td>50'' и более</td>
+                </tr>
+                <tr>
+                  <td>Диагональ экрана:</td>
+                  <td>65"</td>
+                </tr>
+                <tr>
+                  <td>Максимальное разрешение экрана:</td>
+                  <td> 3840x2160</td>
+                </tr>
+                <tr>
+                  <td>Особенности:</td>
+                  <td> Smart TV</td>
+                </tr>
+                <tr>
+                  <td>Поддержка Cl</td>
+                  <td> +</td>
+                </tr>
+                <tr>
+                  <td>Изогнутый дисплей</td>
+                  <td> +</td>
+                </tr>
+                <tr>
+                  <td>Поддержка DLNA</td>
+                  <td> -</td>
+                </tr>
+                <tr>
+                  <td>Wi-Fi</td>
+                  <td> -</td>
+                </tr>
+              </table><a class="product-info-content-table-all" href="#">Посмотреть все характеристики</a>
+            </div>
+          </div>
         </div>
-        <div class="product-info-tab-cont">Контент №2</div>
-        <div class="product-info-tab-cont">Контент №3</div>
-        <div class="product-info-tab-cont">Контент №4</div>
-        <div class="product-info-tab-cont">Контент №5</div>
-        <div class="product-info-tab-cont">Контент №6</div>
+        <div class="about_product_item">
+          <div class="about_product_title about_product_title-mob">Описание</div>
+          <div class="about_product_plate">
+            <div class="about_product_content">Контент 2</div>
+          </div>
+        </div>
+        <div class="about_product_item">
+          <div class="about_product_title about_product_title-mob">Отзывы<span>23</span></div>
+          <div class="about_product_plate">
+            <div class="about_product_content">Контент 3</div>
+          </div>
+        </div>
+        <div class="about_product_item">
+          <div class="about_product_title about_product_title-mob">Аксессуары</div>
+          <div class="about_product_plate">
+            <div class="about_product_content">Контент 4</div>
+          </div>
+        </div>
+        <div class="about_product_item">
+          <div class="about_product_title about_product_title-mob">Гарантия и установка</div>
+          <div class="about_product_plate">
+            <div class="about_product_content">Контент 5</div>
+          </div>
+        </div>
+        <div class="about_product_item">
+          <div class="about_product_title about_product_title-mob red">% Скидка</div>
+          <div class="about_product_plate">
+            <div class="about_product_content">Контент 6</div>
+          </div>
+        </div>
+        <div class="about_product_item">
+          <div class="about_product_title about_product_title-mob">Товары с уценкой</div>
+          <div class="about_product_plate">
+            <div class="about_product_content">Контент 7</div>
+          </div>
+        </div>
       </div>
       <div class="product-info-recomendation">
         <h2 class="product-info-recomendation-head">РЕКОМЕНДУЕМЫЕ АКСЕССУАРЫ</h2><a class="product-info-recomendation-commodity" href="">
@@ -685,7 +722,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </div>
 </div>
 <div class="main_popular">
   <div class="wrap">
@@ -915,4 +952,5 @@
 <script type="text/javascript" src="libs/slick/slick.min.js"></script>
 <script type="text/javascript" src="libs/form/jquery.formstyler.min.js"></script>
 <script src="libs/slider.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/suggestions-jquery@17.10.1/dist/js/jquery.suggestions.min.js"></script>
 <script src="js.js"></script>
