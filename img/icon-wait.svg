@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Technostor-Cabinet-Orders" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-467.000000, -502.000000)">
+        <g id="Content" transform="translate(405.000000, 262.000000)" fill="#F5A623">
+            <g id="order-copy" transform="translate(30.000000, 200.000000)">
+                <g id="ic_watch_later" transform="translate(30.000000, 38.000000)">
+                    <path d="M12,2 C6.5,2 2,6.5 2,12 C2,17.5 6.5,22 12,22 C17.5,22 22,17.5 22,12 C22,6.5 17.5,2 12,2 L12,2 Z M16.2,16.2 L11,13 L11,7 L12.5,7 L12.5,12.2 L17,14.9 L16.2,16.2 L16.2,16.2 Z" id="Icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

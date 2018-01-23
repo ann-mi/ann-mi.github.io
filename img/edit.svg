@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Technostor-Product-Page-Admin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-180.000000, -235.000000)">
+        <g id="item-main" transform="translate(135.000000, 206.000000)">
+            <g id="Button-Copy" transform="translate(30.000000, 20.000000)">
+                <g id="ic_edit" transform="translate(13.000000, 7.000000)">
+                    <polygon id="Bounds" points="0 0 16 0 16 16 0 16"></polygon>
+                    <path d="M2,11.5 L2,14 L4.5,14 L11.8733333,6.62666667 L9.37333333,4.12666667 L2,11.5 L2,11.5 Z M13.8066667,4.69333333 C14.0666667,4.43333333 14.0666667,4.01333333 13.8066667,3.75333333 L12.2466667,2.19333333 C11.9866667,1.93333333 11.5666667,1.93333333 11.3066667,2.19333333 L10.0866667,3.41333333 L12.5866667,5.91333333 L13.8066667,4.69333333 L13.8066667,4.69333333 Z" id="Icon" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
